@@ -1,0 +1,11 @@
+{
+    "applications": {
+        "RecipeApp": {
+            "applicationId": "DcXY0fwuu2culF8FCxP4zq1pzBOGxj2x2qgUP3sm", 
+            "masterKey": "fuFWVWdphn9JXw24Ta4Zl8iHW3F85tCLoz4Ba3Cr"
+        }, 
+        "_default": {
+            "link": "RecipeApp"
+        }
+    }
+}
